@@ -23,7 +23,7 @@ No external scripts, no dependencies — just native mpv commands that IINA pass
 ### Option A — One-line install (recommended)
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/iina-zoom-controls/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Rayasurya/iina-zoom-controls/main/install.sh)
 ```
 
 ### Option B — Manual
